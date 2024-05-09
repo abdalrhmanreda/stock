@@ -43,7 +43,7 @@ class _AccountViewState extends State<AccountView> {
       accountItems: accountItems,
       user: UserDetailsModel(
           email: 'eomar2057@gmail.com',
-          name: 'Esraa omar',
+          name: 'Esra omar',
           phoneNumber: '0123456789',
           customerId: '',
           photo:
